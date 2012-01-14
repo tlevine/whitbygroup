@@ -211,13 +211,14 @@ td { vertical-align: top; }
    Author: Thomas Levine
    ========================================================================== */
 
-body { text-align: center;}
+body { text-align: center; font: 1em Constantia, 'Hoefler Text',  "Adobe Caslon Pro", Baskerville, Georgia, Times, serif; color: #999; }
+
+header h1 {margin: 0;}
+header {padding-top: 1em;}
 h1 { font-size: 2.5em; text-align: center }
 h2 { font-size: 1.5em; }
 h1, h2 {color: #444; }
 
-body { font: 18px Constantia, 'Hoefler Text',  "Adobe Caslon Pro", Baskerville, Georgia, Times, serif; color: #999; }
-/* text-shadow: 2px 2px 2px rgba(200, 200, 200, 0.5); } */
 ::-moz-selection{ background:#FF5E99; color:#fff; }
 ::selection { background:#FF5E99; color:#fff; } 
 
@@ -229,12 +230,27 @@ a:hover { color: black ; text-shadow: 2px 2px 2px rgba(36, 109, 56, 0.5); }
 #main-image { width: 50%; display: block; margin-left: auto; margin-right: auto;}
 
 
+/* ==|== sticky footer =========================================================
+   http://www.cssstickyfooter.com/using-sticky-footer-code.html
+   ========================================================================== */
 
-
-
-
-
-
+html, body {height: 100%;}
+#wrap {min-height: 100%;}
+#main {overflow:auto;
+	padding-bottom: 105px;}  /* must be same height as the footer */
+footer {position: relative;
+	margin-top: -105px; /* negative value of footer height */
+	height: 105px;
+	clear:both;} 
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
+.ie6 #wrap, .ie8 #wrap {display:table;height:100%}
 
 
 

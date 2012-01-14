@@ -1,5 +1,6 @@
 # Ignore generated html
 *.html
+!templating/*.html
 
 # Numerous always-ignore extensions
 *.diff

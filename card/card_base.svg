@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="315"
+   height="180"
+   id="svg3800"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="card_base.svg">
+  <defs
+     id="defs3802" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="119.35415"
+     inkscape:cy="115.33166"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="999"
+     inkscape:window-height="741"
+     inkscape:window-x="637"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3805">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-872.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+       x="18.327822"
+       y="945.06958"
+       id="text3808"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3810"
+         x="18.327822"
+         y="945.06958"
+         style="font-size:10px;font-weight:600;text-align:start;text-anchor:start;-inkscape-font-specification:Adobe Caslon Pro Semi-Bold">{{name}}</tspan><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="957.56958"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3812">Partner</tspan><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="970.06958"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3816">{{email}}@whitbygroup.com</tspan><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="982.56958"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3879" /><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="995.06958"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3818">228 Wait Avenue</tspan><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="1007.5696"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3843">Ithaca, NY, 14853</tspan><tspan
+         sodipodi:role="line"
+         x="18.327822"
+         y="1020.0696"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         id="tspan3845">www.whitbygroup.com</tspan></text>
+    <g
+       id="g3869"
+       transform="translate(130.30967,-7.5558391)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3857"
+         y="917.00171"
+         x="92.934036"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro Semi-Bold Italic"
+           y="917.00171"
+           x="92.934036"
+           id="tspan3859"
+           sodipodi:role="line">Whitby Group</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3861"
+         y="933.66925"
+         x="68.026482"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Adobe Caslon Pro;-inkscape-font-specification:Adobe Caslon Pro"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="933.66925"
+           x="68.026482"
+           id="tspan3863"
+           sodipodi:role="line">Toilet Consultants</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.687823,932.6591 253.295757,0"
+       id="path3881"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

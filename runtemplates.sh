@@ -1,13 +1,10 @@
 #!/bin/sh
 domainname=whitbygroup.com
 
-#Put all files in templating/ other than base.html
-#into the #main div in the base.html file.
+#Put all files in templating/ 
+#into the #main div in the published html file.
 
-for file in templating/*.html; do
-  basename="`basename \"$file\" '.html'`"
-  if [ "$basename" != base ]; then
-    sed "/<!--Page-specific content below-->/r $file" templating/base.html > $basename.html
-  fi
-  sed -i "s/{{domainname}}/$domainname/g" *.html
+for file in publish/*.html; do
+  sed "/<div id=main role=main>/r $file" publish/index.html > publish/$basename.html
+  sed -i "s/{{domainname}}/$domainname/g" publish/*.html
 done

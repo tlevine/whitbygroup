@@ -225,7 +225,7 @@ h1, h2 {color: #444; }
 article {display:block; text-align: left; width: 90%; max-width: 480px; margin: 0 auto; }
 
 a,a:visited { color: inherit; text-decoration: inherit; }
-a:hover { color: black ; text-shadow: 2px 2px 2px rgba(36, 109, 56, 0.5); }
+a:hover { color: #0FF;} /* text-shadow: 2px 2px 2px rgba(0,0,0,0.1); } */
 
 #main-image {
   width: 25%; display: block; margin: 1em auto;

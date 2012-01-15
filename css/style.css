@@ -211,7 +211,7 @@ td { vertical-align: top; }
    Author: Thomas Levine
    ========================================================================== */
 
-body { text-align: center; font: 1em Constantia, 'Hoefler Text',  "Adobe Caslon Pro", Baskerville, Georgia, Times, serif; color: #999; }
+body { text-align: center; font: 1em Constantia, 'Hoefler Text',  "Adobe Caslon Pro", Baskerville, Georgia, Times, serif; color: #777; }
 
 header h1 {margin: 0;}
 header {padding-top: 1em;}
@@ -225,7 +225,9 @@ h1, h2 {color: #444; }
 article {display:block; text-align: left; width: 90%; max-width: 480px; margin: 0 auto; }
 
 a,a:visited { color: inherit; text-decoration: inherit; }
-a:hover { color: #0FF;} /* text-shadow: 2px 2px 2px rgba(0,0,0,0.1); } */
+a:hover { color: #0FF; }
+/* text-shadow: 2px 2px 2px rgba(0,0,0,0.1); } */
+header a:hover {color: inherit;}
 
 #main-image {
   width: 25%; display: block; margin: 1em auto;

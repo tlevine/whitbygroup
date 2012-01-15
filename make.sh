@@ -12,7 +12,7 @@ cd -
 mv publish/index.html base.html
 for file in templates/*.html; do
   basename="`basename \"$file\" .html`"
-  sed "/<article class="page-specific">/r $file" base.html > publish/$basename.html
+  sed "/<article class=pagespecific>/r $file" base.html > publish/$basename.html
   sed -i "s/{{domainname}}/$domainname/g" publish/*.html
 done
 rm base.html

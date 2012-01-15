@@ -10,6 +10,7 @@ cd -
 #into the #main div in the published html file.
 
 for file in templates/*.html; do
+  basename="`basename \"$file\" .html`"
   sed "/<div id=main role=main>/r $file" publish/index.html > publish/$basename.html
   sed -i "s/{{domainname}}/$domainname/g" publish/*.html
 done

@@ -1,5 +1,10 @@
 #!/bin/sh
 domainname=whitbygroup.com
+ 
+#Ant build script
+cd build
+ant
+cd -
 
 #Put all files in templating/ 
 #into the #main div in the published html file.

@@ -16,3 +16,5 @@ for file in templates/*.html; do
   sed -i "s/{{domainname}}/$domainname/g" publish/*.html
 done
 rm base.html
+
+scp -r publish/.htaccess publish/* www-data@thomaslevine.com:/srv/www/whitbygroup

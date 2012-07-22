@@ -1,6 +1,8 @@
 #!/bin/sh
 domainname=whitbygroup.com
- 
+
+set -e
+
 #Ant build script
 cd build
 ant
@@ -17,4 +19,6 @@ for file in templates/*.html; do
 done
 rm base.html
 
-scp -r publish/.htaccess publish/* www-data@thomaslevine.com:/srv/www/whitbygroup
+s3 m www.whitbygroup.com
+cp -R publish/* ~/s3/www.whitbygroup.com
+s3 u www.whitbygroup.com
